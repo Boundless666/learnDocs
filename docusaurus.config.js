@@ -9,7 +9,7 @@ const config = {
   title: 'LearnDocs',
   tagline: '岂能尽如人意，但求无愧我心',
   url: 'https://boundless666.github.io',
-  baseUrl: '/learnDocs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
