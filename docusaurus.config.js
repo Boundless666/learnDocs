@@ -9,11 +9,11 @@ const config = {
   title: 'LearnDocs',
   tagline: '岂能尽如人意，但求无愧我心',
   url: 'https://boundless666.github.io',
-  baseUrl: '/learnsDocs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'boundless666', // Usually your GitHub org/user name.
