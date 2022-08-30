@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'LearnDocs',
+  title: '每天积累一点点',
   tagline: '岂能尽如人意，但求无愧我心',
   url: 'https://boundless666.github.io',
   baseUrl: '/',
